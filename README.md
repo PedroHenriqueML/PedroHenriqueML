@@ -2,5 +2,5 @@
 
 
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, DEVOPS
 
